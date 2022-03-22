@@ -25,4 +25,21 @@ Template also include **VScode extensions**:
 ## How to use the template
 
 1.	Login to your GitHub then click this [Java Spring Boot](https://github.com/xBlueRose/JavaSpring_Template/generate "Github Repository") to generate java spring boot repository.
-     1. 
+     1. Enter your desired repository name.
+     2. Set repository public or private.
+     3. Then click “Create repository from template”.  
+
+2.	[Sign up](https://gitpod.io/new "Gitpod Sign up") in Gitpod
+     1.  Click **authorize Gitpod-io**.
+     2.  Go to [Gitpod integrations](https://gitpod.io/integrations "Gitpod Integrations") then click the 3 dots on the right side of GitHub <br/>![Gitpod integration](https://user-images.githubusercontent.com/85826085/159395535-1185138f-583f-43df-a123-add528c79f2a.png) <br/><br/>
+     3. Click **edit permission**. Then check **public_repo**, **repo** and then click **update permission**.<br/>![Edit permission](https://user-images.githubusercontent.com/85826085/159396199-0b1a472e-5673-44c7-bc1b-78e851382b54.png)<br/><br/>
+     4. Click **authorize Gitpod-io** and if it requires you to login. Login your Github.
+     5. Copy `gitpod.io/#` then go back to your repository
+     6. Then paste it in between of `https://` and `github.com` <br/>&emsp; **Example:** `https://gitpod.io/#github.com/Sample/Sample`
+     7. Press enter.
+
+3.   Now, just sit back and relax. Just wait for the Gitpod finish building your workspace and now after Gitpod building image you will be directed to your workspace then wait until you see on the right side “Projects are imported into workspace”.
+4.   Then go to **src > main > java > click RestfulApiApplication.java > press f5 on your keyboard.**
+     1. Voila! If “Simple Browser” pop up on the right side. Then you’re ready to go. <br/>&emsp; **Note:** click the square button or press shift+f5 to stop RestfulApplicationAPI.java running.
+     2. You can start coding now! Good luck!
+
