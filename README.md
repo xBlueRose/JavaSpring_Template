@@ -43,3 +43,9 @@ Template also include **VScode extensions**:
      1. Voila! If “Simple Browser” pop up on the right side. Then you’re ready to go. <br/>&emsp; **Note:** click the square button or press shift+f5 to stop RestfulApplicationAPI.java running.
      2. You can start coding now! Good luck!
 
+<br/>
+<br/>
+<br/>
+<p align="center">
+     <b>Note:</b> This is only a template. Here is the <a href="https://drive.google.com/file/d/1id4fCHTxI4KnzNAirw_1FOR7YK8tq5ii/view">documentation</a> on how to configure Java Spring Boot in Gitpod workspace.
+</p>
