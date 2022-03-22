@@ -19,3 +19,10 @@ Template also include **VScode extensions**:
 - Spring Boot Tools
 - Spring Initializr Java Support
 - Test Runner for Java  
+
+<br/>
+
+## How to use the template
+
+1.	Login to your GitHub then click this [Java Spring Boot](https://github.com/xBlueRose/JavaSpring_Template/generate "Github Repository") to generate java spring boot repository.
+     1. 
